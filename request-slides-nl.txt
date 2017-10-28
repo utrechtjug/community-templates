@@ -1,0 +1,11 @@
+Hoi [name], 
+
+bedankt voor vanavond!
+
+Mag ik de slides in een pdf?
+Ik heb hun nodig voor onze github repo: https://github.com/utrechtjug/slides
+
+Ons voorkeur is dat jij de repo direct vork en jij maakt een MR :-).
+
+Groeten,
+Thodoris
