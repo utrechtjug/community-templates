@@ -1,0 +1,11 @@
+Hello [name],
+
+thanks a lot for today!
+
+Could I have the slides of your presentation in a pdf please?
+I need them for out GitHub repo: https://github.com/utrechtjug/slides
+
+For us, it is preferred that you directly fork the repo and create a MR :-).
+
+Regards,
+Thodoris
