@@ -7,5 +7,9 @@ I need them for out GitHub repo: https://github.com/utrechtjug/slides
 
 For us, it is preferred that you directly fork the repo and create a MR :-).
 
+In addition, we would like to have the slides of your presentation exported as images (, so that the ediing of the video comes handy to us).
+
+Thanks in advance.
+
 Regards,
 Thodoris

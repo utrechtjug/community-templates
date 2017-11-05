@@ -1,0 +1,12 @@
+What [name] says about the presentation?
+...
+
+Who is [name]?
+...
+
+Related Meetup event: ...
+
+Follow Utrecht Java User Group on social networks
+Meetup ► https://www.meetup.com/Utrecht-Java-User-Group/
+Twitter ► https://twitter.com/utrechtjug
+Facebook ► https://www.facebook.com/utrechtjug/
