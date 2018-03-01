@@ -7,8 +7,6 @@ Ik heb hun nodig voor onze github repo: https://github.com/utrechtjug/slides
 
 Ons voorkeur is dat jij de repo direct vork en jij maakt een MR :-).
 
-Vervolgens, we willen graag de slides van jou presentatie geëxporteerd als afbeeldingen. Op dit manier, de presentatie's video bewerken komt meer handig voor ons.
-
 Alvast bedankt.
 
 Groeten,
