@@ -1,13 +1,13 @@
-Hoi [name], 
+Hoi [naam],
 
-bedankt voor vanavond!
+bedankt voor vanavond.
 
-Mag ik de slides in een pdf?
-Ik heb hun nodig voor onze github repo: https://github.com/utrechtjug/slides
+Mag ik de slides van jou presentatie in pdf format?
+We hebben ze nodig voor onze GitHub repo: https://github.com/utrechtjug/slides
 
-Ons voorkeur is dat jij de repo direct vork en jij maakt een MR :-).
+Liever via een Merge Request :-).
 
 Alvast bedankt.
 
-Groeten,
-Thodoris
+Groet,
+TB
