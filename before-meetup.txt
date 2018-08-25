@@ -2,16 +2,14 @@ Hello [name],
 
 thank you for your interest in presenting your session at Utrecht JUG.
 
-1) Could I have a short description (2-3 lines) for the following questions?
+Could I have a short description (2-3 lines) for the following questions?
 
 - What [name] says about the presentation
 - Who is [name]
 
-2) How long does your session last (rough estimation)?
-
-3) I would also like to kindly ask you to include our logo in ALL of your slides, since it will then become more handy for us to edit the video.
+In addition, how long does your session last (rough estimation)?
 
 Thank you in advance.
 
 Regards,
-Thodoris
+TB
