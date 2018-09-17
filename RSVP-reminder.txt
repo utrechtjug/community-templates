@@ -1,0 +1,11 @@
+Hi Utrecht JUG-er,
+
+You've RSVPed "Yes" for tomorrow's [meetup-name]. The meetup is fully booked and we're looking forward to seeing you!
+
+We still have a very long waitlist with (at this moment 21) members who also want to attend the meetup.
+
+So when your schedule has changed and you're not able to attend the meetup next [day-of-the-meetup], then please update your RSVP today, so another member can attend the meetup instead of you.
+
+See you [tomorrow?]!
+
+The Utrecht JUG Team
