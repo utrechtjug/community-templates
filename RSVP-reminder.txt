@@ -1,11 +1,12 @@
-Hi Utrecht JUG-er,
+Hello Utrecht JUGer,
 
-You've RSVPed "Yes" for tomorrow's [meetup-name]. The meetup is fully booked and we're looking forward to seeing you!
+Less than a week to host [names].
 
-We still have a very long waitlist with (at this moment 21) members who also want to attend the meetup.
+Next [day] [date] we gather at [venue] to have a great evening once again; the very first for 2019.
 
-So when your schedule has changed and you're not able to attend the meetup next [day-of-the-meetup], then please update your RSVP today, so another member can attend the meetup instead of you.
+In case something changed in your plans and you cannot make it, please update your RSVP, so that we give the chance to someone else from the waitlist to attend; an already big waitlist, so, for the ones who are waitlisted, please keep an eye on your notifications, because there is a chance your RSVP might automatically be changed to "Going" when someone cancels their RSVP.
 
-See you [tomorrow?]!
+See you next [day]!
 
+Have a nice weekend,
 The Utrecht JUG Team
