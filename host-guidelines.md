@@ -4,7 +4,7 @@ Beneden een lijst met de belangrijke punten:
 
 * De host zorgt voor een professionele buffet (liever geen pizza’s) die oa vegetarische opties ook omvat.
 * De host zorgt dat er geen marketing pitches van sprekers van de host in de programma staan. Echter, een technische praatje die toont een echte use-case scenario is altijd bespreekbaar, in geval dat het programma van de meetup nog niet eindelijk is.
-* De host zorgt dat er geen recruitment tijdens de hele avond gebeurd van de klant van de host. 
+* De host zorgt dat er geen recruitment tijdens de hele avond gebeurd van de kant van de host. 
 * Het is maaklijk om de eten/buffet te vinden of we spreken dat uit voor de geval dat het in een andere verdieping is; we hadden gevalen in het verleden dat het buffet was geresserveed van de andere kant van de verdieping, maar niet aangekondigd van tevoren, dus het was niet helemaal duidelijk voor iedereen dat op die moment was het tijd voor de buffet.
 * De host kan altijd zijn eigen banners neerzetten, maar liever dat de banner naast de spreker van Utrecht JUG is.
 * Utrecht JUG zorgt voor de goede reklama voor de host via ons sociale media.
